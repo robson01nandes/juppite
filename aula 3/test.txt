@@ -1,0 +1,2 @@
+esta é a linha 1.
+Está é a linha 2.esta é a linha 1./nEstá é a linha 2.esta é a linha 1.\nEstá é a linha 2.esta é a linha 1.nEstá é a linha 2.esta é a linha 1.Está é a linha 2.
